@@ -1,16 +1,9 @@
 # dice_roller_app
 
-A new Flutter project.
+My first flutter App!
 
-## Getting Started
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-11-30 at 11 21 50" src="https://github.com/user-attachments/assets/93d7b0f7-711e-424c-af08-039997dc11d0" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 핵심 기능
+- 다크모드
+- Local Storatage 를 활용한 마지막 주사위 번호 기억
